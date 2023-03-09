@@ -66,9 +66,8 @@ Use console.log and string interpolation to log the temperature in newton to the
 
 ``/``
 `[README.md](README.md)`
-  ``[thermometer](/thermometer)``
+  ``[thermometer](practice-projects/thermometer)``
   
-  ````
   
 ### Disclaimer
 
@@ -76,7 +75,7 @@ Use console.log and string interpolation to log the temperature in newton to the
 
 ### Affiliation
 
-This course was motivated by [Code Academy](https://codeacademy.com) in affiliation with [ROADMAP](https://roadmap.sh) directives as anaffiliate referal.
+This projects were motivated by [Code Academy](https://codeacademy.com) in affiliation with [ROADMAP](https://roadmap.sh) directives as anaffiliate referal.
 
 ### Author
 [Dovine Owuor](https://github.com/dovineowuor)
